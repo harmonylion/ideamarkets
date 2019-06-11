@@ -14,9 +14,10 @@ Buy/sell curve is asymmetrical, so people always buy at a slight premium and sel
 THAT'S IT!
 
 Tools to make this as easy as possible:
-1. Easy-onboarding web wallet: Portis.io
-2. Alpha code: https://github.com/ConsenSys/curationmarkets
+1. Alpha code for curation markets: https://github.com/ConsenSys/curationmarkets
+2. Easy-onboarding web wallet: http://portis.io
 3. Intro to curation markets: https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881
+4. Reddit code: https://github.com/reddit (optional, but would be awesome)
 
 
 Future versions:
