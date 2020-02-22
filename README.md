@@ -27,3 +27,4 @@ The platform pools the profits in a reserve and distributes to token holders acc
 
 
 Full background on what this is for: https://medium.com/@harmonylion1/decentralizing-the-search-for-truth-using-financial-markets-648bf4408b5c
+
